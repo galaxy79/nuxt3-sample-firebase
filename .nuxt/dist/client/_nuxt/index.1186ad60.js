@@ -1,0 +1,1 @@
+import{a as e,b as t,e as a,o,f as n}from"./entry.bddefcb9.js";const s=n("h1",null," This is an about page on the app",-1),c=[s],r=e({__name:"index",setup(i){return t({title:"Nuxt 3 About Page",meta:[{name:"description",content:"Nuxt3 About Page"}]}),(u,_)=>(o(),a("div",null,c))}});export{r as default};
